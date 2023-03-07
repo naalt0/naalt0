@@ -1,6 +1,6 @@
 ### Hello there my name is Neo
 
-### Languages and Tools:
+#### Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,node,php,html,css)](https://skillicons.dev)
 
