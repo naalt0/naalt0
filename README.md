@@ -10,5 +10,6 @@
 ### Projects
 <p> Some project repos <p>
  
- #### PHP chat: 
  https://github.com/naalt0/PHP-chat
+ 
+ https://github.com/naalt0/Tietokanta-projekti
