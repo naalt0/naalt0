@@ -1,9 +1,9 @@
 ## Hello there my name is Neo
 
 ### Languages and Tools:
--These Languages and tool are things I practise
+<p> These Languages and tool are things I practise </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,php,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,php,html,css,vscode)](https://skillicons.dev)
 
 <!--
 **naalt0/naalt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
