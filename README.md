@@ -1,6 +1,6 @@
 ## Hello there my name is Neo
 
-### Languages:
+### Currently learning:
 <p> These languages are things I practise </p>
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,php,html,css)](https://skillicons.dev)
