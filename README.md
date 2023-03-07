@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hello there my name is Neo
+
+## Languages and Tools:
+
 
 <!--
 **naalt0/naalt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
