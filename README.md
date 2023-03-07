@@ -1,4 +1,4 @@
-## Hello there my name is Neo
+## Hello there my name is Neo 👋
 
 ### Currently learning:
 
