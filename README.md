@@ -1,6 +1,7 @@
 ## Hello there my name is Neo
 
 ### Languages and Tools:
+-These Languages and tool are things I practise
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,php,html,css)](https://skillicons.dev)
 
