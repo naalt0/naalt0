@@ -1,7 +1,8 @@
-## Hello there my name is Neo
+### Hello there my name is Neo
 
-## Languages and Tools:
+### Languages and Tools:
 
+[![My Skills](https://skillicons.dev/icons?i=js,react,node,html,css)](https://skillicons.dev)
 
 <!--
 **naalt0/naalt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
