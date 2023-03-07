@@ -8,7 +8,7 @@
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naalt0&show_icons=true&theme=monokai)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naalt0&show_icons=true&theme=monokai) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naalt0&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **naalt0/naalt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
