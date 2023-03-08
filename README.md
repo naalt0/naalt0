@@ -10,6 +10,6 @@
 ### Projects
 <p> Some project repos <p>
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naalt0&repo=PHP-chat)](https://github.com/anuraghazra/github-readme-stats)
- 
- https://github.com/naalt0/Tietokanta-projekti
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naalt0&repo=PHP-chat&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naalt0&repo=Tietokanta-projekti&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
