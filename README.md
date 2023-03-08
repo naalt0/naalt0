@@ -10,5 +10,7 @@
 ### Projects
 <p> Some project repos <p>
 
+----------------------------
+
 <p>Chat website made with PHP and MySQL</p>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naalt0&repo=PHP-chat&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
