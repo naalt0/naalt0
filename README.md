@@ -8,7 +8,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naalt0&langs_count=3&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
+More projects coming soon!
 
-<p>Chat website made with PHP and MySQL</p>
+### Chat website made with PHP and MySQL
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naalt0&repo=PHP-chat&theme=monokai)](https://github.com/naalt0/PHP-chat)
