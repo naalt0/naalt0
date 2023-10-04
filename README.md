@@ -1,6 +1,6 @@
-# Hello there my name is Neo 👋
+# Hello world!
 
-## Currently I'm learning 🤓
+## Currently I'm learning
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,php,html,css,tailwind)](https://skillicons.dev)
 
