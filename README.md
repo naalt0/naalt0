@@ -164,7 +164,6 @@
 <rect x="1206.87" y="701.08" class="st2" width="152.91" height="10.52"/>
 <rect x="1079.04" y="735.87" class="st2" width="358.4" height="10.52"/>
 </svg>
-svg…]()
 
 
 ## I'm currently learning
